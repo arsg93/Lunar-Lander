@@ -1,6 +1,6 @@
 # Lunar-Landing-Andrés-Rodríguez
-***
-Tareas desarrolladas:
+
+>Tareas desarrolladas:
 * Poner fondo, imagen de la nave y luna. Poner una tierra fijada a la pantalla para que se vea en cualquier tipo de dispositivo. Optimizar las imágenes.
 * Al pulsar una tecla o bien hacer click en la pantalla la nave cambia de aspecto a nave con motor encendido y debe cambia la aceleración de g a -g.
 * Al pulsar una tecla o bien hacer click en la pantalla se vacía el tanque de combustible de forma proporcional al tiempo que mantenemos pulsado el propulsor. 
@@ -8,12 +8,10 @@ Tareas desarrolladas:
 * Valor umbral: 5m/s.
 * Hay una página de *About* accesibles desde el botón “i” en la cual se disponen las instrucciones y el desarrollador.
 *Tenemos un botón *Pause* con el que podremos parar el juego en cualquier momento.
-***
-*La versión “Indented” se encuentra en el ramal “master” y la “Minified” en el ramal Minified.
-***
-Fuentes consultadas:
-*http://www.w3schools.com/
-*http://www.w3c.es/
-*http://www.cssmatic.com/
-***
 
+>La versión “Indented” se encuentra en el ramal “master” y la “Minified” en el ramal Minified.
+
+>Fuentes consultadas:
+http://www.w3schools.com/
+http://www.w3c.es/
+http://www.cssmatic.com/
