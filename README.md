@@ -1,4 +1,4 @@
-(img/astro.svg)
+img/astro.svg
 
 
 # lunar-landing-javascript
