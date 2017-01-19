@@ -38,15 +38,7 @@ function stop() {
 
 function reiniciar() {
 
-    y = 10;
-    v = 0;
-    a = -g;
-    fuel = 100;
-    document.getElementById("fuel").innerHTML = fuel.toFixed(0);
-    condicion = true;
-    document.getElementById("acabado").style.display = "none";
-    stop();
-    start();
+location.reload();
 
 }
 
